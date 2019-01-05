@@ -1,4 +1,4 @@
-name		# Песнь темных вод
-description		# Описание
-author		# Ferveks
+name			# Џеснь темных вод
+description		# Ћписание
+author			# Ferveks
 
