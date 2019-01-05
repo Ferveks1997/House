@@ -1,0 +1,20 @@
+﻿// Параметры персонажа при его отображении в основном потоке. 
+// Могут быть замещены параметрами пузырька текста
+
+// Текстуры берутся из папки Resources\Textures\NamedBubble
+
+[Главкрыс] // ID Подстановка идет по нему
+name_to_print   # Главкрыс // Имя, которое будет отображаться
+background 		# bubbleBackground_Rat
+description 	# Злобно-хвостатый ушлепок
+color_text 		# (255,216,0)
+color_name		# (64,64,64)
+color_readed    # (190,190,190) // Изменение Color, когда прочитано
+
+[Я]
+name_to_print   # Я
+//background 		# bubbleBackground_Rat
+//description 	# Злобно-хвостатый ушлепок
+color_text 		# (0,216,0)
+color_name		# (255,216,0)
+
