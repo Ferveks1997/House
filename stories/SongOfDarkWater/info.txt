@@ -1,4 +1,4 @@
-name			# Џеснь темных вод
-description		# Ћписание
+name			# РЏРµСЃРЅСЊ С‚РµРјРЅС‹С… РІРѕРґ
+description		# РћРїРёСЃР°РЅРёРµ
 author			# Ferveks
 
